@@ -1,0 +1,5 @@
+.idea/
+cinfig/databases.yml
+tmp/
+log/
+build/
